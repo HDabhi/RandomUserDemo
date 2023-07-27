@@ -1,0 +1,17 @@
+node_modules/
+
+# xcode
+xcuserdata/
+project.xcworkspace
+DerivedData/
+Podfile.lock
+*.xcworkspace
+Pods/
+ios/build/
+
+# Android
+.idea
+.gradle
+local.properties
+android/app/build/
+
